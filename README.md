@@ -3,11 +3,11 @@ FinanceHero is a wealth management app that connects all your accounts and provi
 
 ## Repository Contents
 
-- **ADRs/**: Architecture Decision Records documenting key technical and architectural decisions.
-- **architecture-c4/**: C4 model diagrams and architecture deliverables for FinanceHero.
-- **press-releases/**: Official press releases and related documents.
-- **proposal.md**: Project proposal outlining the goals and scope of FinanceHero.
-- **LICENSE**: Custom BSD 3-Clause License with attribution, name usage, and profit-sharing requirements.
+- [**Proposal**](./proposal.md): Project proposal outlining the goals and scope of FinanceHero.
+- [**ADRs**](./ADRs/): Architecture Decision Records documenting key technical and architectural decisions.
+- [**Architecture-c4**](./architecture-c4/): C4 model diagrams and architecture deliverables for FinanceHero.
+- [**Press-releases**](./press-releases/): Official press releases and related documents.
+- [**LICENSE**](./LICENSE): Custom BSD 3-Clause License with attribution, name usage, and profit-sharing requirements.
 
 ## License
 
